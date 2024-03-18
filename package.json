@@ -1,0 +1,12 @@
+{
+  "name": "text-clip",
+  "version": "1.0.0",
+  "description": "Text Clip Animation",
+  "homepage": "https://codingjeff01.github.io/text-clip-rain",
+  "keywords": [],
+  "author": "Coding Jeff",
+  "license": "",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
